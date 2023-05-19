@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    padding: 10px;
+    padding-top: 200px ;
+    justify-content: center;
+    align-items: center;
+    /* background-color: #c3c; */
+}
+
+h1{
+    padding: 10px;
+    background-color: #c3c;
+}
+
+
+.js{
+
+    border-radius: 20px;
+    border: 2px solid #fff;
+    background-color: yellowgreen;
+}
